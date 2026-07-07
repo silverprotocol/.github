@@ -9,7 +9,7 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/silverprotocol/silverprotocol"><b>→ Start here: silverprotocol/silverprotocol</b></a><br/>
+  <a href="https://github.com/silverprotocol/AgJSON"><b>→ Start here: silverprotocol/AgJSON</b></a><br/>
   <a href="https://silverprotocol.io">silverprotocol.io</a> ·
   <a href="https://silverprotocol.io/AgJSON">Spec</a> ·
   <a href="https://silverprotocol.io/AgJSON/frameworks">Frameworks</a>
@@ -21,12 +21,12 @@
 
 | Repository | What's in it |
 | --- | --- |
-| **[silverprotocol](https://github.com/silverprotocol/silverprotocol)** | The flagship: the canonical AgJSON spec (`SPEC.md`), the full pitch, examples, and the SDK index. **Start, star, and discuss here.** |
+| **[AgJSON](https://github.com/silverprotocol/AgJSON)** | The flagship: the canonical AgJSON spec (`SPEC.md`), the full pitch, examples, and the SDK index. **Start, star, and discuss here.** |
 | **[typescript-sdk](https://github.com/silverprotocol/typescript-sdk)** | The reference TypeScript SDK — `@silverprotocol/core` plus per-framework normalizers (`claude-agent-sdk`, `openai-agents`, `google-adk`). |
 
 **Building something?** `npm install @silverprotocol/core` + a normalizer for your
 framework. **Want a normalizer for a framework we don't cover yet?**
-[Open an issue](https://github.com/silverprotocol/typescript-sdk/issues) — they're
+[Open an issue](https://github.com/silverprotocol/AgJSON/issues) — they're
 community-contributable.
 
 <sub>Hero image © Encyclopædia Britannica, Inc., used under <a href="https://www.britannica.com/bps/license/creative-commons-legal-code/623330">CC BY 4.0</a>.</sub>
